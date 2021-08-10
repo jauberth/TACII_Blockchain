@@ -28,4 +28,17 @@ A Internet das Coisas agrega dispositivos capazes de capturar informações e in
 
 
 # TACII - Blockchain, Contratos Inteliigentes, Iot e Sistemas Web
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/lifuesc/jai2021.svg?style=for-the-badge
+[contributors-url]: https://github.com/lifuesc/jai2021/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/lifuesc/jai2021.svg?style=for-the-badge
+[forks-url]: https://github.com/lifuesc/jai2021/network/members
+[stars-shield]: https://img.shields.io/github/stars/lifuesc/jai2021.svg?style=for-the-badge
+[stars-url]: https://github.com/lifuesc/jai2021/stargazers
+[issues-shield]: https://img.shields.io/github/issues/lifuesc/jai2021.svg?style=for-the-badge
+[issues-url]: https://github.com/lifuesc/jai2021/issues
+[license-shield]: https://img.shields.io/github/license/lifuesc/jai2021.svg?style=for-the-badge
+[license-url]: https://github.com/lifuesc/jai2021/blob/main/LICENSE
+
  
