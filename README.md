@@ -29,6 +29,22 @@ A Internet das Coisas agrega dispositivos capazes de capturar informações e in
 
 # TACII - Blockchain, Contratos Inteliigentes, Iot e Sistemas Web
 
+<h3> Índice dos tutoriais </h3>
+
+1. [Tutoriais](https://github.com/lifuesc/jai2021/tree/main/tutoriais/)
+   - [Instalação VsCode](https://github.com/lifuesc/jai2021/tree/main/tutoriais/vscode/instalacao.md)
+   - [Instalação NodeJs](https://github.com/lifuesc/jai2021/tree/main/tutoriais/node/instalacao.md)
+   - [Instalação MetaMask e primeiro acesso](https://github.com/lifuesc/jai2021/tree/main/tutoriais/metamask/instalacao.md)
+   - [Adicionando Ether na rede rinkebay](https://github.com/lifuesc/jai2021/tree/main/tutoriais/metamask/adicionandoEtherRinkebay.md)
+   - [Criando novas contas no MetaMask](https://github.com/lifuesc/jai2021/tree/main/tutoriais/metamask/criandoContas.md)
+   - [Instalando o React](https://github.com/lifuesc/jai2021/tree/main/tutoriais/reactjs/instalacao.md)
+   - [Criando projeto React](https://github.com/lifuesc/jai2021/tree/main/tutoriais/reactjs/criandoProjeto.md)
+2. [Práticas](https://github.com/lifuesc/jai2021/tree/main/Praticas)
+   - [API](https://github.com/lifuesc/jai2021/tree/main/api)
+   - [Deploy ](https://github.com/lifuesc/jai2021/tree/main/deploy)
+   - [DApp ReactJs](https://github.com/lifuesc/jai2021/tree/main/frontend)
+3. [Slides](https://github.com/lifuesc/jai2021/tree/main/minicurso%20JAI2021.pdf)
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/lifuesc/jai2021.svg?style=for-the-badge
 [contributors-url]: https://github.com/lifuesc/jai2021/graphs/contributors
