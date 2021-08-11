@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/lifuesc/TACII_Blockchain/">
-    <img src="./fig/uesc.png" alt="Logo" width="100">
+    <img src="./fig/uesc.png" alt="Logo" width="200">
     <br/>
     <img src="./fig/uyesc.png" alt="Logo" width="100%">
   </a>
