@@ -37,7 +37,6 @@ Tópicos a serem abordados:
 5.Soluções de blockchain e gerações da tecnologia
 
 6.Aplicações descentralizadas e contratos inteligentes
-
 7.Casos de uso típicos
 
 # TACII - Blockchain, Contratos Inteliigentes, Iot e Sistemas Web
