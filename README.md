@@ -7,9 +7,9 @@
 <br />
 <p align="center">
   <a href="https://github.com/lifuesc/TACII_Blockchain/">
-    <img src="./img/uesc.png" alt="Logo" width="100">
+    <img src="./fig/uesc.png" alt="Logo" width="100">
     <br/>
-    <img src="./img/uyesc.png" alt="Logo" width="100%">
+    <img src="./fig/uyesc.png" alt="Logo" width="100%">
   </a>
 
   <h2 align="center">Blockchain e Contratos Inteligentes para Aplicações em IoT, uma Abordagem Prática</h2>
@@ -46,14 +46,14 @@ A Internet das Coisas agrega dispositivos capazes de capturar informações e in
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/jauberth/TACII_Blockchain.svg?style=for-the-badge
-[contributors-url]: https://github.com/lifuesc/jai2021/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/lifuesc/jai2021.svg?style=for-the-badge
-[forks-url]: https://github.com/lifuesc/jai2021/network/members
-[stars-shield]: https://img.shields.io/github/stars/lifuesc/jai2021.svg?style=for-the-badge
-[stars-url]: https://github.com/lifuesc/jai2021/stargazers
-[issues-shield]: https://img.shields.io/github/issues/lifuesc/jai2021.svg?style=for-the-badge
-[issues-url]: https://github.com/lifuesc/jai2021/issues
-[license-shield]: https://img.shields.io/github/license/lifuesc/jai2021.svg?style=for-the-badge
-[license-url]: https://github.com/lifuesc/jai2021/blob/main/LICENSE
+[contributors-url]: https://github.com/jauberth/TACII_Blockchain/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jauberth/TACII_Blockchain.svg?style=for-the-badge
+[forks-url]: https://github.com/jauberth/TACII_Blockchain/network/members
+[stars-shield]: https://img.shields.io/github/stars/jauberth/TACII_Blockchain.svg?style=for-the-badge
+[stars-url]: https://github.com/jauberth/TACII_Blockchain/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jauberth/TACII_Blockchain.svg?style=for-the-badge
+[issues-url]: https://github.com/jauberth/TACII_Blockchain/issues
+[license-shield]: https://img.shields.io/github/license/jauberth/TACII_Blockchain.svg?style=for-the-badge
+[license-url]: https://github.com/jauberth/TACII_Blockchain/blob/main/LICENSE
 
  
