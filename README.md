@@ -28,12 +28,16 @@ A Internet das Coisas agrega dispositivos capazes de capturar informações e in
 
 Tópicos a serem abordados:
 1.Visão histórica de blockchain
-
 2.Fundamentos de blockchain e de sistemas descentralizados
+
 3.Mecanismos de segurança e criptografia básica
+
 4.Algoritmos de consenso
+
 5.Soluções de blockchain e gerações da tecnologia
+
 6.Aplicações descentralizadas e contratos inteligentes
+
 7.Casos de uso típicos
 
 # TACII - Blockchain, Contratos Inteliigentes, Iot e Sistemas Web
