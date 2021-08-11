@@ -9,7 +9,6 @@
   <a href="https://github.com/lifuesc/TACII_Blockchain/">
     <img src="./fig/uesc.png" alt="Logo" width="200">
     <br/>
-    <img src="./fig/uyesc.png" alt="Logo" width="100%">
   </a>
 
   <h2 align="center">Blockchain e Contratos Inteligentes para Aplicações em IoT, uma Abordagem Prática</h2>
